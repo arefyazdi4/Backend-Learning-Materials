@@ -1,2 +1,2 @@
 # Backend-Learning-Materials
-This repo contain a notes that I take from variety of recourses during leveraging my skills toward filling the senior backend engineer role.
+This repo contains notes that I have taken from a variety of recourses during leveraging my skills to fill the senior backend engineer role.
