@@ -556,6 +556,8 @@ Source: <https://en.wikipedia.org/wiki/Isolation_(database_systems)>
 
 Notes on the table: the exact behavior depends on the database. For example, in the SQL standard, Repeatable Read is allowed to have phantoms, but PostgreSQL's version is stricter (it is snapshot isolation).
 
+<https://www.postgresql.org/docs/current/transaction-iso.html>
+
 *end of [EXTRA]*
 
 ## Database Implementation of Isolation
