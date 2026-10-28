@@ -592,7 +592,6 @@ Notes on the table: the exact behavior depends on the database. For example, in 
 
 ### [EXPANDED] How pessimistic and optimistic isolation really work
 
-*This section is the deeper explanation you asked for. It goes beyond the instructor's lecture, so keep or trim it as you wish.*
 
 #### 1. The core idea in one picture
 
